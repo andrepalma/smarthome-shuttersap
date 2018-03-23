@@ -1,0 +1,19 @@
+{
+  "name": "shuttersap",
+  "version": "1.0.0",
+  "keywords": "shutters, covers, estores, cortinas",
+  "description": "Control shutters, or covers, by time.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrepalma/smarthome-shuttersap"
+  },
+  "authors": [
+    {
+      "name": "Andre Palma,
+      "email": "reguila2@gmail.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}

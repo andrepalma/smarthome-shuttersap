@@ -1,0 +1,33 @@
+#########################################
+# Syntax Coloring Map For IRremoteESP8266
+#########################################
+
+#######################################################
+# The Arduino IDE requires the use of a tab separator
+# between the name and identifier. Without this tab the
+# keyword is not highlighted.
+#
+# Reference: https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5:-Library-specification#keywords
+#######################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+shutters	KEYWORD1
+covers	KEYWORD1
+shutters_time	KEYWORD1
+estores	KEYWORD1
+cortinas	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

@@ -1,2 +1,2 @@
-# smarthome-shuttersap
-shutters controlled by Time
+# Shutters controller 
+
