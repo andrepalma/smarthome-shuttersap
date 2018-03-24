@@ -1,6 +1,6 @@
 # Release Notes
 
-## _v2.2.1 (20171025)_
+## _v1.0.0 (20180323)_
 
 **[Features]**
 - Support for sending and decoding Nikai TV messages. (#311, #313)
